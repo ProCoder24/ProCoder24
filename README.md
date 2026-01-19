@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 My name is Jean. I have a hardware-focused background in electrical engineering.
-- 🔭 Working on embedded systems and PCB design
-- 🌱 Learning advanced FPGA design and hardware validation techniques
+- 🔭 Currently working on embedded control systems and PCB design.
+- 🌱 Learning advanced FPGA design and hardware validation techniques.
 
 <!--
 **ProCoder24/ProCoder24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
