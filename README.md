@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-Jean
-Hardware-focused electrical engineering background.
+My name is Jean. I have a hardware-focused background in electrical engineering.
 - 🔭 Working on embedded systems, FPGA development, and PCB design
 - 🌱 Learning advanced FPGA design and hardware validation techniques
 
