@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Jean
+Hardware-focused electrical engineering background.
+🔭 Working on embedded systems, FPGA development, and PCB design
+🌱 Learning advanced FPGA design and hardware validation techniques
+
 <!--
 **ProCoder24/ProCoder24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Electrical Engineering student focused on hardware technology development, with hands-on experience in electronic system design, 
+Technical background in electrical engineering, currently focused on hardware technology development, system-level design, embedded control, PCB development, and hardware validation.
 -->
