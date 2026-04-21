@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-My name is Jean. I have a hardware-focused background in electrical engineering.
-- 🔭 Currently working on embedded control systems and PCB design.
-- 🌱 Learning advanced FPGA design and hardware validation techniques.
+My name is Jean, a graduate in Electrical Engineering with a strong focus on hardware system design and digital architecture.
+ - Experience in embedded systems and real-time control
+ - Solid background in PCB design (Altium Designer, KiCad), including high-speed and mixed-signal layouts
+ - Experience in FPGA development (Verilog, Vivado), including AXI-Lite peripherals and system-level integration
+ - Skilled in hardware validation and debugging, using simulation tools and on-board testing
+I am passionate about building efficient and scalable hardware systems, bridging digital design, embedded software, and physical implementation.
 
 <!--
 **ProCoder24/ProCoder24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
