@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-## Hi there 👋
-
 My name is Jean, and I am a graduate in Electrical Engineering with a strong focus on hardware system design and digital architecture.
 
 - Experience in **embedded systems** and real-time control  
