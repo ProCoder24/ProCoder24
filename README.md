@@ -9,7 +9,7 @@ My name is Jean, and I am a graduate in Electrical Engineering with a strong foc
 
 I am passionate about building efficient and scalable hardware systems, bridging digital design, embedded software, and physical implementation.
 
-**Recent work includes:** AXI-Lite controlled FPGA peripherals, UART-based communication systems, and high-speed mixed-signal PCB designs.
+**Recent work includes:** AXI-Lite controlled FPGA peripherals, UART-based communication systems, and high-speed mixed-signal PCB designs, showcased in my pinned repositories (fpga-projects and pcb-projects).
 
 <!--
 **ProCoder24/ProCoder24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
